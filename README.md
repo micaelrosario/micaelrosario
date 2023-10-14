@@ -10,20 +10,15 @@
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=micaelrosario&bg_color=0D1117&color=4C71A1&line=4C71A1&point=FF6D00&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=micaelrosario&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
-</p>
-
+<!--REDES SOCIAIS-->
 <div align="center">  
-<a href="https://www.instagram.com/devmicaelrosario/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
-</div>
-
-<div align="center">
+  <a href="https://www.instagram.com/devmicaelrosario/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
+  <a href = "mailto:andersoncardoso.dev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="[https://www.linkedin.com/in/micael-ros%C3%A1rio-263b8324a/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 </div>
+
   
 
 ### Habilidades Principais:
