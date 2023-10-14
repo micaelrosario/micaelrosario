@@ -17,6 +17,8 @@
   <a href="[https://www.linkedin.com/in/micael-ros%C3%A1rio-263b8324a/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
+
+    
 </div>
 
   
@@ -40,8 +42,11 @@
 ![MySQL](https://img.shields.io/badge/-mysql-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117)&nbsp;
 ![Figma](https://img.shields.io/badge/-figma-0D1117?style=for-the-badge&logo=figma&labelColor=0D1117)&nbsp;
   
-### Studying in this moment:
+<div>
+  ![Snake animation](https://github.com/micaelrosario/micaelrosario/blob/output/github-contribution-grid-snake.svg)
 
+[![readme](https://github-readme-stats.vercel.app/api/pin/?username=micaelrosario&repo=micaelosario&theme=react)](https://github.com/micaelrosario/micaelrosario)
+</div>
 
 
   <div align="center">
