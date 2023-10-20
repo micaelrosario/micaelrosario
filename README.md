@@ -43,7 +43,7 @@
 ![Figma](https://img.shields.io/badge/-figma-0D1117?style=for-the-badge&logo=figma&labelColor=0D1117)&nbsp;
   
 <div>
-  ![Snake animation](https://github.com/micaelrosario/micaelrosario/blob/output/github-contribution-grid-snake.svg)
+
 
 [![readme](https://github-readme-stats.vercel.app/api/pin/?username=micaelrosario&repo=micaelosario&theme=react)](https://github.com/micaelrosario/micaelrosario)
 </div>
