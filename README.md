@@ -40,11 +40,7 @@
 ![MySQL](https://img.shields.io/badge/-mysql-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117)&nbsp;
 ![Figma](https://img.shields.io/badge/-figma-0D1117?style=for-the-badge&logo=figma&labelColor=0D1117)&nbsp;
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/micaelrosario/micaelrosario/blob/output/github-contribution-grid-snake-dark.svg" />
-  <img alt="github-snake" src="github-contribution-grid-snake.svg" />
-</picture>
-
+![snake gif](https://github.com/micaelrosario/micaelrosario/blob/output/github-contribution-grid-snake.svg)
 
   <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
